@@ -1,4 +1,3 @@
-#test
 JavaParser and Maven sample
 ---
 
